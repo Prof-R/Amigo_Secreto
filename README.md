@@ -11,7 +11,7 @@ Este é um projeto simples para realizar sorteios de Amigo Secreto, desenvolvido
 ## 🚀 Como usar
 1. Clone este repositório:
    ```sh
-   https://github.com/Prof-R/Amigo-Secreto.git
+   https://github.com/Prof-R/Amigo_Secreto.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
